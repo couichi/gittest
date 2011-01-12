@@ -1,1 +1,1 @@
-<?phpecho "gittest test";echo "git is great";
+<?phpecho "gittest test";	
