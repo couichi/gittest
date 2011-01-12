@@ -1,1 +1,1 @@
-<?phpecho "gittest test";	
+<?phpprint "gittest test";	
